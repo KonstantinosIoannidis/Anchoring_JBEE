@@ -24,6 +24,8 @@ The files are stored in three folders: Data, which contains data from the experi
    * Between Effects.do (*Produces Result 1 in Section 3*)
    * Within Effects.do (*Produces Result 2 in Section 3*)
    * Pairwise Tests.do (*Produces Result 3 in Section 3*)
+   * Power 
+      * 
 3. Qualtrics
 
 ### Instructions
