@@ -25,7 +25,9 @@ The files are stored in three folders: Data, which contains data from the experi
    * Within Effects.do (*Produces Result 2 in Section 3*)
    * Pairwise Tests.do (*Produces Result 3 in Section 3*)
    * Power 
-      * 
+      * simmvtest.ado (*Creates a program that simulates data, tests main hypothesis, and stores rejection or not*)
+      * power_cmd_simmvtest.ado (*Creates a program that calls simvest, and stores mean rejection rates*)
+      * power_cmd_simmvtest_init.ado (*Embeds simvest into the standard power framework of Stata *)
 3. Qualtrics
 
 ### Instructions
