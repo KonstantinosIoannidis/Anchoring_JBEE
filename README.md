@@ -19,6 +19,7 @@ The files are stored in three folders: Data, which contains data from the experi
    * Experimental Codebook.md (*Codebook for ```Experimental Data.csv```*)
 2. Stata
    * Data Analysis.do (*Calls and executes all other files*)
+   * Power Analysis.do (*Calls run simmvtest.ado, run power_cmd_simmvtest.ado, run power_cmd_simmvtest_init.ado for the power analysis in Subsection 2.4*)
    * Prepare Raw Data.do (*Cleans raw experimental data and prepares it for analysis*)
 3. Qualtrics
 
