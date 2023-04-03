@@ -12,7 +12,7 @@ The analysis was conducted using ```Stata 17```.
 
 ### Files
 
-The files are stored in three folders: Data, which contains data from the experiment, Stata, which contains the Stata code to produce every result in the paper, and Qualtrics, which contains the exported experimental software.
+The files are stored in two folders: Data, which contains data from the experiment, and Stata, which contains the Stata code to produce every result in the paper.
 
 1. Data
    * Experimental Data.csv (*The raw data from the experiment in csv format*)
@@ -28,7 +28,6 @@ The files are stored in three folders: Data, which contains data from the experi
       * simmvtest.ado (*Creates a program that simulates data, tests main hypothesis, and stores rejection or not*)
       * power_cmd_simmvtest.ado (*Creates a program that calls simvest, and stores mean rejection rates*)
       * power_cmd_simmvtest_init.ado (*Embeds simvest into the standard power framework of Stata*)
-3. Qualtrics
 
 ### Instructions
 To run the code, you only need to run **Data Analysis.do**.
