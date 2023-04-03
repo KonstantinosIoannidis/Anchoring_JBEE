@@ -12,7 +12,7 @@ The analysis was conducted using ```Stata 17```.
 
 ### Files
 
-The files are stored in two folders: Data, which contains data from the experiment and the meta analysis, and Stata, which contains the Stata code to produce every result in the paper.
+The files are stored in three folders: Data, which contains data from the experiment, Stata, which contains the Stata code to produce every result in the paper, and Qualtrics, which contains the exported experimental software.
 
 1. Data
    * Experimental Data.csv (*The raw data from the experiment in csv format*)
@@ -20,6 +20,7 @@ The files are stored in two folders: Data, which contains data from the experime
 2. Stata
    * Data Analysis.do (*Calls and executes all other files*)
    * Prepare Raw Data.do (*Cleans raw experimental data and prepares it for analysis*)
+3. Qualtrics
 
 ### Instructions
 To run the code, you only need to run **Data Analysis.do**.
