@@ -4,7 +4,7 @@ This repository includes the data and the Stata code used in Ioannidis K. (2023)
 
 ### Abstract
 
-Anchoring is a cognitive bias whereby individuals decisions are influenced by an uninformative number, the anchor. Anchoring bias for valuations of goods has important implications for consumer decisions, but its' robustness has been questioned by recent studies. In this study, we investigate the effect of the perceived informativeness of the anchor on valuations of goods. In an online experiment we vary the amount of information about the anchor generating process, and hypothesise that the more information provided, the less scope is left for the anchor to be perceived as non-random/informative, thus mitigating anchoring effects.
+Anchoring is a cognitive bias whereby individuals' decisions are influenced by an uninformative number, the anchor. Anchoring bias for valuations of goods has important implications for consumer decisions, but its' robustness has been questioned by recent studies. We investigate the effect of the perceived informativeness of the anchor on valuations of goods. In an online experiment, we vary the amount of information about the process by which the anchor was determined, and hypothesise that the more information provided, the less scope is left for the anchor to be perceived as non-random/informative, thus mitigating anchoring effects. Our results provide evidence that the perceived informativeness of the anchor does affect anchoring effects. Contrary to our prediction, we find stronger anchoring effects when more information is presented.
 
 ### Software
 
