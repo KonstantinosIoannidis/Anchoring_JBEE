@@ -6,6 +6,7 @@ import delimited "..\Data\Experimental Data.csv", encoding(UTF-8) clear
 do "..\Stata\Prepare Raw Data.do"
 
 ** Demographics (section 2.5) **
+tab treatment
 tab gender
 tab education
 sum age
