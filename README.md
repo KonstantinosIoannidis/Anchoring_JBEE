@@ -1,6 +1,6 @@
 ## Description
 
-This repository includes the data and the Stata code used in Ioannidis K. (2023). [Anchoring on valuations and perceived informativeness](https://www.sciencedirect.com/science/article/pii/S2214804323000861). *Journal of Behavioral and Experimental Economics*, 106(1): 1-6
+This repository includes the data and the Stata code used in Ioannidis K. (2023). [Anchoring on valuations and perceived informativeness](https://www.sciencedirect.com/science/article/pii/S2214804323000861). *Journal of Behavioral and Experimental Economics*, 106(1): 1-7
 
 ### Abstract
 
